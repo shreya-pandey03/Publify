@@ -20,7 +20,7 @@ bg-gradient-to-br from-[#0B0B0B] via-[#1E1E1E] to-[#B87333]"
             <span className="bg-gradient-to-r from-orange-400 to-red-500 bg-clip-text text-transparent
 ">
               {" "}
-             Through Writing
+             Through Writing.
             </span>
           </h1>
           <p className="mx-auto max-w-2xl text-lg text-gray-300 md:text-xl">
