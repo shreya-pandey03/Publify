@@ -66,8 +66,9 @@ export function Navbar() {
 
             {/* User Actions */}
             <SignedIn>
-              <UserButton afterSignOutUrl="/" />
+              <UserButton afterSignOutUrl="/sign-in" />
             </SignedIn>
+
             <SignedOut>
               <div className="hidden md:flex items-center gap-2">
                 <SignInButton>
